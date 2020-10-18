@@ -3,5 +3,7 @@ public class Koblenz_Mustafa {
         System.out.println("Ich wohne in Koblenz. Die Stadt liegt am Rhein");
 
         System.out.println("Das ist zweite Reihe nach dem ersten Kommentar");
+
+        System.out.println("Das ist ein Hinzufügung bei Master");
     }
 }
